@@ -1,0 +1,18 @@
+.mt-h-14 .mt-m-frame { padding: 0px 0px; }
+.mt-h-14 .mt-logo { text-align: center; }
+.mt-h-14 .logo { float: inherit; }
+.mt-h-14 .mt-m-col1,
+.mt-h-14 .mt-m-col3 { width: 40%; height: 30px; }
+.mt-h-14 .mt-m-col2 { width: 20%; }
+.mt-h-14 .mt-mb .sf-menu { margin-left: 0px!important; text-align: center; float:none; }
+.mt-h-14 .mt-mb .sf-menu li{ float: inherit; display: inline-block; }
+.mt-h-14 .mt-mb .mt-m-nav { float:none; padding: 10px 0px;}
+.mt-h-14 .mt-mb,
+.mt-h-14 .mt-mb .mt-m-nav{ display: inherit; }
+.mt-h-14 .mt-mb { padding-bottom: 10px; }
+
+.mt-h-14 .mt-m-button,
+.mt-h-14 .mt-mm .mt-search-1,
+.mt-h-14 .mt-desctop .mt-m-small,
+.mt-h-14 .mt-mm .mt-shop-1,
+.mt-h-14 .mt-mm .mt-m-language-right { display: none!important }

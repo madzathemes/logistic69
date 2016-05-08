@@ -1,0 +1,11 @@
+.mt-h-10 .mt-mt { border-bottom: 1px solid #f0f0f0; padding: 20px 0px; }
+.mt-h-10 .mt-mt,
+.mt-h-10 .mt-mt .mt-m-mail-left,
+.mt-h-10 .mt-mt .mt-m-phone-left,
+.mt-h-10 .mt-mt .mt-search-2,
+.mt-h-10 .mt-mt .mt-shop-2,
+.mt-h-10 .mt-mm .mt-m-nav,
+.mt-h-10 .mt-mm .mt-m-small { display: inherit; }
+
+.mt-h-10 .mt-mm .mt-search-1,
+.mt-h-10 .mt-mm .mt-shop-1 { display: none!important }

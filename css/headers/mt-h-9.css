@@ -1,0 +1,4 @@
+.mt-h-9 .mt-mm{ border-top: 2px solid silver; }
+.mt-h-9 .mt-mm .mt-m-nav,
+.mt-h-9 .mt-mm .mt-search-1,
+.mt-h-9 .mt-mm .mt-m-small { display: inherit; }

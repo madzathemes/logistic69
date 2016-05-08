@@ -1,0 +1,72 @@
+.mt-h-24 .logo { float: inherit; }
+.mt-h-24 .mt-logo { text-align: center; }
+.mt-h-24 .mt-mm { padding: 25px 0px; }
+.mt-h-24 .mt-mb { border-top: 1px solid #f0f0f0; padding: 20px 0px; }
+.mt-h-24 .mt-mb .mt-search-2 { 
+	text-transform: uppercase;
+	width: 180px;
+	font-size: 11px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+.mt-h-24 ul.sf-menu li a {
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #333333;
+	color: #a0a0a0!important;
+}
+.mt-h-24 ul.sf-menu li.current-cat > a, .mt-h-24 div.sf-menu ul li.current-cat > a, .mt-h-24 ul.sf-menu li.current-menu-item > a, .mt-h-24 div.sf-menu ul li.current-menu-item > a, .mt-h-24 ul.sf-menu li.current_page_item > a, .mt-h-24 div.sf-menu ul li.current_page_item > a, .mt-h-24 ul.sf-menu li.current-menu-ancestor > a, .mt-h-24 div.sf-menu ul li.current-menu-ancestor > a, .mt-h-24 ul.sf-menu li a:hover, .mt-h-24 div.sf-menu ul li a:hover{
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #ffffff;
+}
+
+.mt-h-24 .mt-mm .mt-shop-1,
+.mt-h-24 .mt-mm .mt-m-login2-right {
+	border: 1px solid #e0e0e0; 
+	color: #e0e0e0;
+	width: 35px;
+	font-size:12px;
+	padding: 8px;
+	text-align: center;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+.mt-h-24 .mt-mb .mt-m-nav { padding-left: 20px; }
+.mt-h-24 .mt-m-col1,
+.mt-h-24 .mt-m-col3 { width: 40%; }
+.mt-h-24 .mt-m-col2 { width: 20%; }
+.mt-h-24 .mt-mb ul.sf-menu a, 
+.mt-h-24 .mt-mb div.sf-menu ul a,
+.mt-h-24 .mt-m-login-right { font-weight: 400!important; font-size: 11px; }
+.mt-h-24 .mt-mm  .mt-social li { padding: 0px; }
+.mt-h-24 .mt-mm  .mt-social li a { 
+	font-size: 12px; 
+	color: #e0e0e0; 
+	border: 1px solid #e0e0e0;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 8px 0px!important;
+	width: 35px;
+	text-align: center; 
+	display: inline-block;
+}
+.mt-h-24 .mt-mb .mt-search-2 { 
+	width: 220px;
+}
+.mt-h-24 .mt-mm .mt-shop-1,
+.mt-h-24 .mt-mb,
+.mt-h-24 .mt-mb .mt-m-nav,
+.mt-h-24 .mt-mb .mt-search-2,
+.mt-h-24 .mt-mm .mt-m-social-left,
+.mt-h-24 .mt-mm .mt-m-login2-right { display: inherit; }
+
+.mt-h-24 .mt-m-button,
+.mt-h-24 .mt-mm .mt-search-1 { display: none!important }

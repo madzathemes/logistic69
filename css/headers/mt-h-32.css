@@ -1,0 +1,17 @@
+.mt-h-32 .mt-mb ul.sf-menu a, 
+.mt-h-32 .mt-mb div.sf-menu ul a,
+.mt-h-32 .mt-m-login-right { font-weight: 400!important; font-size: 11px; }
+.mt-h-32 .mt-mb { background: #282828!important; }
+.mt-h-32 .mt-mm .mt-search-2,
+.mt-h-32 .mt-mm .mt-shop-2,
+.mt-h-32 .mt-mb,
+.mt-h-32 .mt-mb .mt-m-nav,
+.mt-h-32 .mt-mb .mt-m-social-right { display: inherit; }
+
+.mt-m-nav{
+    padding: 10px 0px;
+}
+
+.mt-h-32 .mt-m-button,
+.mt-h-32 .mt-mm .mt-search-1,
+.mt-h-32 .mt-mm .mt-shop-1 { display: none!important }

@@ -1,0 +1,10 @@
+.mt-h-2 ul.sf-menu li a, .mt-h-2 div.sf-menu ul li a, .mt-h-2 ul.sf-menu li.current-cat > a, .mt-h-2 div.sf-menu ul li.current-cat > a, .mt-h-2 ul.sf-menu li.current-menu-item > a, .mt-h-2 div.sf-menu ul li.current-menu-item > a, .mt-h-2 ul.sf-menu li.current_page_item > a, .mt-h-2 div.sf-menu ul li.current_page_item > a, .mt-h-2 ul.sf-menu li.current-menu-ancestor > a, .mt-h-2 div.sf-menu ul li.current-menu-ancestor > a, .mt-h-2 ul.sf-menu li a:hover, .mt-h-2 div.sf-menu ul li a:hover{
+	margin: 0px 1px!important;
+	padding: 36px 20px;
+}
+.mt-h-2 .mt-mm .mt-m-nav,
+.mt-h-2 .mt-mm .mt-search-1 { display: inherit; }
+
+.mt-m-nav { margin: -27px 0px!important; }
+
+.mt-mm .mt-m-nav { margin-top: 0px; }

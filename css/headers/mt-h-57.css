@@ -1,0 +1,18 @@
+.mt-h-57 .mt-mb ul.sf-menu a, 
+.mt-h-57 .mt-mb div.sf-menu ul a,
+.mt-h-57 .mt-m-login-right { font-weight: 400!important; font-size: 11px; }
+.mt-h-57 .mt-mm .mt-m-nav,
+.mt-h-57 .mt-mm .mt-m-phone2-right { display: inherit; }
+
+.mt-h-57 .mt-mm .mt-m-nav { float:left; margin-left: 40px;}
+
+ul.sf-menu a, div.sf-menu ul a { font-size: 16px!important; text-transform: none!important }
+
+.mt-m-phone2-right  { font-size: 16px; font-weight: bold; padding: 8px 0px; color:#a0a0a0 }
+.mt-m-phone2-right span { text-decoration: underline; font-weight: 600; }
+
+ul.sf-menu li.current-cat > a, div.sf-menu ul li.current-cat > a,
+ul.sf-menu li.current-menu-item > a, div.sf-menu ul li.current-menu-item > a,
+ul.sf-menu li.current_page_item > a, div.sf-menu ul li.current_page_item > a,
+ul.sf-menu li.current-menu-ancestor > a, div.sf-menu ul  li.current-menu-ancestor > a,
+ul.sf-menu li a:hover, div.sf-menu ul li a:hover { border-bottom: 4px solid silver; }

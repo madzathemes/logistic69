@@ -1,0 +1,25 @@
+.mt-h-15 .logo { float: inherit; }
+.mt-h-15 .mt-logo { text-align: center; }
+.mt-h-15 .mt-m-col1,
+.mt-h-15 .mt-m-col3 { width: 40%; }
+.mt-h-15 .mt-m-col2 { width: 20%; }
+.mt-h-15 .mt-mb { border-top:1px solid #f5f5f5; }
+.mt-h-15 .mt-mb .sf-menu { margin-left: 0px!important; text-align: center; float:none; }
+.mt-h-15 .mt-mb .sf-menu li{ float: inherit; display: inline-block; }
+.mt-h-15 .mt-mb .mt-m-nav { float:none; padding: 10px 0px; }
+.mt-h-15 .mt-mm { border-top: 2px solid #f5f5f5; padding: 25px 0px;}
+.mt-h-15 .mt-mm  .mt-social li a { font-size: 14px; color: #d0d0d0}
+.mt-h-15 .mt-mm .mt-m-social-right,
+.mt-h-15 .mt-mm .mt-m-phone-left,
+.mt-h-15 .mt-mm .mt-m-mail-left,
+.mt-h-15 .mt-mb,
+.mt-h-15 .mt-mb .mt-m-nav{ display: inherit; }
+
+.mt-h-15 .mt-social {
+    margin-left: 25px!important;
+    margin-right: 15px!important;
+    margin-top: 1px!important;
+}
+
+
+.mt-h-15 .mt-m-button { display: none!important }

@@ -1,0 +1,19 @@
+.mt-h-7 .mt-mm { padding: 25px 0px; }
+.mt-h-7 .mt-mb { border-top: 1px solid #f0f0f0;}
+.mt-h-7 .mt-mb ul.sf-menu a, 
+.mt-h-7 .mt-mb div.sf-menu ul a,
+.mt-h-7 .mt-m-login-right { font-weight: 400!important; font-size: 11px; }
+.mt-h-7 .mt-mm .mt-search-2,
+.mt-h-7 .mt-mm .mt-shop-2,
+.mt-h-7 .mt-mb,
+.mt-h-7 .mt-mb .mt-m-nav,
+.mt-h-7 .mt-mb .mt-m-login-right,
+.mt-h-7 .mt-mb .mt-m-language-right { display: inherit; }
+.mt-m .sf-menu {
+    margin-left: -20px!important;
+}
+
+.mt-h-7 .mt-m-button,
+.mt-h-7 .mt-mm .mt-search-1,
+.mt-h-7 .mt-mm .mt-shop-1,
+.mt-h-7 .mt-mm .mt-m-language-right { display: none!important }

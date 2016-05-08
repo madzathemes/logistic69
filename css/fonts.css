@@ -1,0 +1,26 @@
+/* Font Awesome 4.4.0 */@font-face{font-family:'FontAwesome';src:url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.eot?v=4.4.0');src:url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.eot?#iefix&v=4.4.0') format('embedded-opentype'),url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.woff2?v=4.4.0') format('woff2'),url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.woff?v=4.4.0') format('woff'),url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.ttf?v=4.4.0') format('truetype'),url('functions/plugins/FortAwesome/fonts/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale} 
+.fa-search:before{content:"\f002"}.fa-envelope-o:before{content:"\f003"}.fa-user:before{content:"\f007"}.fa-cog:before{content:"\f013"}.fa-tag:before{content:"\f02b"}.fa-map-marker:before{content:"\f041"}.fa-calendar:before{content:"\f073"}.fa-shopping-cart:before{content:"\f07a"}.fa-folder:before{content:"\f07b"}.fa-phone:before{content:"\f095"}.fa-twitter:before{content:"\f099"}.fa-facebook:before{content:"\f09a"}.fa-rss:before{content:"\f09e"}.fa-bars:before{content:"\f0c9"}.fa-pinterest:before{content:"\f0d2"}.fa-google-plus:before{content:"\f0d5"}.fa-linkedin:before{content:"\f0e1"}.fa-angle-right:before{content:"\f105"}.fa-angle-up:before{content:"\f106"}.fa-angle-down:before{content:"\f107"}.fa-folder-open-o:before{content:"\f115"}.fa-youtube:before{content:"\f167"}.fa-instagram:before{content:"\f16d"}.fa-flickr:before{content:"\f16e"}.fa-dribbble:before{content:"\f17d"}.fa-skype:before{content:"\f17e"}.fa-vimeo-square:before{content:"\f194"}.fa-file-pdf-o:before{content:"\f1c1"}.fa-arrows-alt:before{content:"\f0b2"} 
+@font-face {
+	font-family: 'themify';
+	src:url('functions/plugins/themify-icons/fonts/themify.eot?-fvbane');
+	src:url('functions/plugins/themify-icons/fonts/themify.eot?#iefix-fvbane') format('embedded-opentype'),
+		url('functions/plugins/themify-icons/fonts/themify.woff?-fvbane') format('woff'),
+		url('functions/plugins/themify-icons/fonts/themify.ttf?-fvbane') format('truetype'),
+		url('functions/plugins/themify-icons/fonts/themify.svg?-fvbane#themify') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="ti-"], [class*=" ti-"] {
+	font-family: 'themify';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.ti-close:before {
+	content: "\e646";
+}

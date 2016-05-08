@@ -1,0 +1,18 @@
+.mt-h-37 .logo_black { float: inherit; }
+.mt-h-37 .mt-logo { text-align: center; }
+.mt-h-37 .mt-m-col2 { width: 100%; }
+.mt-h-37 .mt-mb .sf-menu { margin-left: 0px!important; text-align: center; float:none; }
+.mt-h-37 .mt-mb .sf-menu li{ float: inherit; display: inline-block; }
+.mt-h-37 .mt-mb .mt-m-nav { float:none; }
+.mt-h-37 .mt-mm  .mt-social li a { font-size: 14px; color: #d0d0d0}
+.mt-h-37 .mt-mb,
+.mt-h-37 .mt-mb .mt-m-nav{ display: inherit; }
+.mt-mb {
+    padding: 20px 0px;
+}
+
+.mt-h-37 .mt-m-button,
+.mt-h-37 .mt-mm .mt-search-1,
+.mt-h-37 .mt-desctop .mt-m-small,
+.mt-h-37 .mt-mm .mt-shop-1,
+.mt-h-37 .mt-mm .mt-m-language-right { display: none!important }

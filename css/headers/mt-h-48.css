@@ -1,0 +1,52 @@
+.mt-h-48 .mt-mb { border-top: 1px solid #f0f0f0;}
+.mt-h-48 .mt-mm  .mt-social li a { font-size: 14px; color: silver; }
+.mt-h-48 .mt-mm .mt-m-phone-right i,
+.mt-h-48 .mt-mm .mt-m-mail-right i  { padding: 11px 0px!important;}
+.mt-h-48 .mt-mm .mt-m-phone-right,
+.mt-h-48 .mt-mm .mt-m-mail-right { font-size: 12px; padding-right:40px; margin-right: 40px; border-right: 1px solid #f5f5f5; }
+.mt-h-48 .logo { float: inherit;  }
+.mt-h-48 .mt-logo { text-align: center; }
+.mt-h-48 .mt-m-col1,
+.mt-h-48 .mt-m-col3 { width: 40%; }
+.mt-h-48 .mt-m-col2 { width: 20%; }
+.mt-h-48 .mt-mb { border-top:1px solid #f5f5f5; background: rgba(0, 0, 0, 0.33)!important  }
+.mt-h-48 .mt-mb .sf-menu { margin-left: 0px!important; text-align: center; float:none; }
+.mt-h-48 .mt-mb .sf-menu li{ float: inherit; display: inline-block; }
+.mt-h-48 .mt-mb .mt-m-nav { float:none; }
+.mt-h-48 .mt-mm { border-top: 2px solid #f5f5f5; padding: 40px 0px;}
+.mt-h-48 .mt-mb .mt-search-2 { 
+	width: 220px;
+}
+.mt-h-48 .mt-mb ul.sf-menu li a, .mt-h-48 .mt-mb div.sf-menu ul li a { padding: 21px 20px; color: white!important;}
+.mt-h-48 .mt-mb ul.sf-menu li, .mt-h-48 .mt-mb div.sf-menu ul li {     margin: 10px 0px 8px;}
+.mt-h-48 .mt-mb ul.sf-menu li:last-child, .mt-h-48 .mt-mb div.sf-menu ul li:last-child { border-right:0px solid #575757!important; }
+.mt-h-48 .mt-mm .mt-m-social-right,
+.mt-h-48 .mt-mb,
+.mt-h-48 .mt-mb .mt-m-nav,
+.mt-h-48 .mt-mm .mt-m-mail-left,
+.mt-h-48 .mt-mm .mt-m-phone-left { display: inherit; }
+.mt-h-48 .mt-dark ul.sf-menu li.current-cat > a, 
+.mt-h-48 .mt-dark div.sf-menu ul li.current-cat > a, 
+.mt-h-48 .mt-dark ul.sf-menu li.current-menu-item > a, 
+.mt-h-48 .mt-dark div.sf-menu ul li.current-menu-item > a, 
+.mt-h-48 .mt-dark ul.sf-menu li.current_page_item > a, 
+.mt-h-48 .mt-dark div.sf-menu ul li.current_page_item > a, 
+.mt-h-48 .mt-dark ul.sf-menu li.current-menu-ancestor > a, 
+.mt-h-48 .mt-dark div.sf-menu ul li.current-menu-ancestor > a, 
+.mt-h-48 .mt-dark ul.sf-menu li a:hover, 
+.mt-h-48 .mt-dark div.sf-menu ul li a:hover {
+	color:#d0d0d0!important;
+}
+.mt-h-48 .mt-content-frame { margin-top: -57px}
+
+.mt-h-48 .mt-social {
+    margin-left: 25px!important;
+    margin-right: 15px!important;
+    margin-top: 1px!important;
+}
+/* END MENU MIDDLE */
+@media only screen and (min-width: 1200px) { 
+.mt-h-48 #header-title{
+  padding-top: 57px!important;
+}
+}

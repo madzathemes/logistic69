@@ -1,0 +1,22 @@
+.mt-h-23 .logo { float: inherit; }
+.mt-h-23 .mt-logo { text-align: center; }
+.mt-h-23 .mt-m-col1,
+.mt-h-23 .mt-m-col3 { width: 40%; height: 10px; }
+.mt-h-23 .mt-m-col2 { width: 20%; }
+.mt-h-23 .mt-mt .sf-menu,
+.mt-h-23 .mt-mt .mt-m-nav { text-align: center; float: none; }
+.mt-h-23 .mt-mt .sf-menu li{ float: inherit; display: inline-block; }
+.mt-h-23 .mt-mt ul.sf-menu li a, .mt-h-23 .mt-mt div.sf-menu ul li a { padding: 21px 20px;} 
+.mt-h-23 .mt-mt,
+.mt-h-23 .mt-mt .mt-m-nav{ display: inherit; }
+
+
+ul.sf-menu, div.sf-menu ul {
+    padding: 20px 0px!important;
+}
+
+.mt-h-23 .mt-m-button,
+.mt-h-23 .mt-mm .mt-search-1,
+.mt-h-23 .mt-desctop .mt-m-small,
+.mt-h-23 .mt-mm .mt-shop-1,
+.mt-h-23 .mt-mm .mt-m-language-right { display: none!important }

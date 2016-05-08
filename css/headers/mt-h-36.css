@@ -1,0 +1,17 @@
+.mt-h-36 .mt-mm { background: none!important; }
+.mt-h-36 .logo_black { float: inherit; }
+.mt-h-36 .mt-logo { text-align: center; }
+.mt-h-36 .mt-m-col1,
+.mt-h-36 .mt-m-col3 { width: 40%; }
+.mt-h-36 .mt-m-col2 { width: 20%; }
+.mt-h-36 .mt-mm .mt-m-nav-second { float: left; }
+.mt-h-36 .mt-mm .mt-m-nav-first { float: right; }
+.mt-h-36 .mt-mm .sf-menu { margin-left: 0px!important; }
+.mt-h-36 .mt-mm .mt-m-nav-first,
+.mt-h-36 .mt-mm .mt-m-nav-second { display: inherit; }
+
+.mt-h-36 .mt-m-button,
+.mt-h-36 .mt-mm .mt-search-1,
+.mt-h-36 .mt-desctop .mt-m-small,
+.mt-h-36 .mt-mm .mt-shop-1,
+.mt-h-36 .mt-mm .mt-m-language-right { display: none!important }
